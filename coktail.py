@@ -1,0 +1,1 @@
+print("i heardly welcome you all to cocktail party")
